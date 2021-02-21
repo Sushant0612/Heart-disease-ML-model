@@ -6,4 +6,4 @@ The silver lining is that heart attacks are highly preventable and simple lifest
 
 Doctors and scientists alike have turned to machine learning (ML) techniques to develop screening tools and this is because of their superiority in pattern recognition and classification as compared to other traditional statistical approaches.<br/>
 
-In this project, I am creating a model for predicting whether a patient has 10-year risk of developing coronary heart disease(CHD) using different Machine Learning techniques on the [Heart Disease UCI dataset][#kjjjjjjj.com].
+In this project, I am creating a model for predicting whether a patient has 10-year risk of developing coronary heart disease(CHD) using different Machine Learning techniques on the [Heart Disease UCI dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease).
